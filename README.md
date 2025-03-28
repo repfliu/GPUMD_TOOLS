@@ -1,7 +1,7 @@
 # Introduction
 
 This script facilitates the convertion of MD trajectories (produced by GPUMD) into one unitcell structure.
-One can see the Atomic distributions from MD as **NSR** [National Science Review 11 nwae216 (2024)].
+One can see the Atomic distributions from MD as **NSR** [National Science Review 11 nwae216 (2024)](https://doi.org/10.1093/nsr/nwae216).
 
 # Input Files
 
